@@ -1,0 +1,14 @@
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+name: "Jiaying Li"
+
+author: "Jiaying Li"
+atom-baseurl: "http://openlijiaying.github.io"
+disqus: "zagol"
+
+safe: true
+paginate: 16
+auto: true
+
+highlighter: rouge
